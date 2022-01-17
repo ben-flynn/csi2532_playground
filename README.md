@@ -1,4 +1,4 @@
-# csi2532_playground
+# CSI 2532 playground
 
 | Outline | Names |
 | --- | --- |
