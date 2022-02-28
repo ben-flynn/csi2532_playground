@@ -4,3 +4,6 @@ VALUES('Ford', 2020, 'F-650'),
 ('Tesla', 2020, 'Model Y'),
 ('Ford', 2020, 'Equinox'),
 ('Jeep', 2020, 'Wrangler');
+('Tesla', 2022, 'Model Y');
+('Tesla', 2022, 'Model Y');
+
